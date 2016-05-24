@@ -1,7 +1,7 @@
 Ejercicio 1
 ==============
 
-Ejercicio para trabajar conocimientos sobre Modules, Events, Streams, FileSystem y Console.
+Ejercicio para trabajar conocimientos sobre Modules, Events y Console.
 
 Hello Teacher!
 
