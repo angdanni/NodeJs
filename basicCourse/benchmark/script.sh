@@ -8,10 +8,6 @@ fi
 SYNCAPPNAME="syncRead.js"
 ASYNCAPPNAME="asyncRead.js"
 
-echo "Delete files..."
-rm -f file
-
-echo "Files deleted"
 echo "Creating files..."
 dd if=/dev/zero of=archivo1.txt bs=1024 count=1048576
 dd if=/dev/zero of=archivo2.txt bs=1024 count=1048576
@@ -26,3 +22,7 @@ echo $SYNCTIME
 echo $ASYNCAPPNAME
 ASYNCTIME=`(time seq $1 | xargs -Iz node $ASYNCAPPNAME) 2>&1 | grep real`
 echo $ASYNCTIME
+
+echo "Delete files..."
+rm -f archivo*
+echo "Files deleted"
