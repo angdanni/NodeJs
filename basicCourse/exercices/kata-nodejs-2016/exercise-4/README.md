@@ -6,7 +6,7 @@ Ejercicio para trabajar conocimientos sobre Modules, Events y Console.
 Hello Teacher!
 
 Imaginemos que existe un aula en la que se va a impartir un curso de Node. Este aula será nuestro app.js. 
-En dicho aula hay un profesor, Mr. Teacher. En el aula existe una lista con los nombres y apellidso de los alumnos inscritos. Poco a poco llegarán alumnos al aula. Una vez los alumnos se encuentran en el aula el profesor pasará lista antes de impartir el curso. El profesor mencionará, uno a uno, los nombres de los alumnos. Los alumnos estarán escuchando atentamente al profesor y estos responderán, emitiendo un saludo, cuando su nombre sea pronunciado. El profesor estará atento a los saludos de los alumnos para tomar nota de los allí presentes.
+En dicho aula hay un profesor, Mr. Teacher. En el aula existe una lista con los nombres y apellidos de los alumnos inscritos. Poco a poco llegarán alumnos al aula. Una vez los alumnos se encuentran en el aula el profesor pasará lista antes de impartir el curso. El profesor mencionará, uno a uno, los nombres de los alumnos. Los alumnos estarán escuchando atentamente al profesor y estos responderán, emitiendo un saludo, cuando su nombre sea pronunciado. El profesor estará atento a los saludos de los alumnos para tomar nota de los allí presentes.
 
 Condiciones:
 * profesor y alumnos tienen un nombre y apellidos.
