@@ -9,7 +9,7 @@ Imaginemos que existe un aula en la que se va a impartir un curso de Node. Este 
 En dicho aula hay un profesor, Mr. Teacher, que pasará lista antes de impartir el curso. Para ello dispondrá de una lista que contiene cada uno de los nombres y apellidos de los alumnos inscritos. El profesor mencionará, uno a uno, los nombres de los alumnos. Los alumnos estarán escuchando atentamente al profesor y estos responderán, emitiendo un saludo, cuando su nombre sea pronunciado. El profesor estará atento a los saludos de los alumnos para tomar nota de los allí presentes.
 
 Condiciones:
-* profesor y cada alumnos tienen un nombre y apellidos.
+* profesor y alumnos tienen un nombre y apellidos.
 * no existen dos alumnos que tengan el mismo nombre y apellidos.
 * la lista de alumnos inscritos consistirá en un array de Strings.
 * una vez entra el profesor en el aula no podrán entrar más alumnos.
