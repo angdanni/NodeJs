@@ -1,7 +1,6 @@
 'use strict'
 
 const Person = require('./Person');
-const Utils = require('./Utils');
 
 class Student extends Person {
 
