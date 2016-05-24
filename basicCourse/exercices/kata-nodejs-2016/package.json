@@ -1,0 +1,24 @@
+{
+  "name": "kata-nodejs-2016",
+  "description": "",
+  "version": "0.0.1",
+  "main": "./kata-nodejs-2016.js",
+  "author": {
+    "name": "juan",
+    "email": "you@email.example"
+  },
+  "keywords": [],
+  "licenses": {
+    "type": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/YOUR_LOGIN/kata-nodejs-2016.git"
+  },
+  "bugs": {
+    "url": "http://github.com/YOUR_LOGIN/kata-nodejs-2016/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.12.0"
+  }
+}
