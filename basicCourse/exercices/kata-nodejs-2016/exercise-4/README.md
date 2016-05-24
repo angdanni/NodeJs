@@ -15,11 +15,13 @@ Condiciones:
 * una vez entra el profesor en el aula no podrán entrar más alumnos.
 * cada saludo, tanto por parte del profesor como por parte de los alumnos, será reflejado a través de la consola.
 * previo a cada mensaje escribiremos el nombre de la persona que lo emite. 
-
-Por ejemplo:
-	>> "Mr. Teacher: Daniel Sanjuán"
-	>> "Daniel Sanjuán: Hello Mr. Teacher"
+	Por ejemplo:
+	
+		>> "Mr. Teacher: Daniel Sanjuán"
+		
+		>> "Daniel Sanjuán: Hello Mr. Teacher"
 * el profesor tomará nota escribiendo, por consola, el nombre del alumno correspondiente. 
 
-Por ejemplo: 
-	>> "Daniel Sanjuán is present".
+	Por ejemplo: 
+		
+		>> "Daniel Sanjuán is present".
