@@ -10,6 +10,6 @@ Continuando con el ejercicio anterior trataremos de:
 * El profesor anotará en un fichero .txt los nombres y apellidos de cada uno de los alumnos presentes, en una línea cada uno, en el momento en el que escucha la respuesta del mismo.
 
 Condiciones:
-* tratar de emplear una única instancia para llevar a cabo la trazas en los logs.
+* emplear una única instancia para llevar a cabo la trazas en los logs.
 * emplear 'fs.createReadStream' para lectura del fichero. Realizar la lectura carácter a carácter.
 * emplear 'fs.createWriteStream' para escritura de los alumnos presentes.
