@@ -1,4 +1,4 @@
 Benchmark sync vs async
 ==============
 
-Comparison between reading synchronous and asynchronous files.
+Comparison between reading files using synchronous mode and asynchronous mode.
